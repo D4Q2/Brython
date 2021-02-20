@@ -2,7 +2,7 @@ from browser import document
 
 document <= "File: "
 
-f = open("https://d4q2.gtihub.io/brython/database.txt","w+")
+f = open("/database.txt","w+")
 f.write("It worked!!!!!")
 f.close()
 
